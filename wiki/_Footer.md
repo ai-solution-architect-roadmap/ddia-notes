@@ -1,1 +1,1 @@
-Summary notes on _Designing Data-Intensive Applications_ by Martin Kleppmann · Adapted from [Ahmed Hammad's reading notes](https://github.com/ahmedhammad97/Designing-Data-Intensive-Applications-Notes) · [Back to Home](Home)
+Summary notes on _Designing Data-Intensive Applications_ by Martin Kleppmann · [Back to Home](Home)
