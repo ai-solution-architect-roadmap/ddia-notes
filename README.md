@@ -28,4 +28,4 @@ The wiki pages live in [`wiki/`](wiki/). Edit them there; on every push to `main
 
 ## Credits
 
-Adapted from [Ahmed Hammad's reading notes](https://github.com/ahmedhammad97/Designing-Data-Intensive-Applications-Notes). All ideas belong to the book's author, Martin Kleppmann.
+All ideas belong to the book's author, Martin Kleppmann.

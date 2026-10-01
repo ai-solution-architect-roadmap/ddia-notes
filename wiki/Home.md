@@ -47,4 +47,4 @@ How to build systems out of several data stores that derive data from one anothe
 
 ## Credits
 
-These pages are an edited and restructured version of the reading notes by [Ahmed Hammad](https://github.com/ahmedhammad97/Designing-Data-Intensive-Applications-Notes). The wording has been polished, a few factual slips have been corrected, and each chapter now has its own page with key takeaways. All ideas belong to the book's author, Martin Kleppmann.
+All ideas belong to the book's author, Martin Kleppmann. These pages are a condensed summary for quick reference and revision.
